@@ -1,129 +1,92 @@
-<!-- Header with Matrix/Code Theme -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0f0c29,50:302b63,100:24243e%26height%3D250%26section%3Dheader%26text%3D<Devesh%20Mishra%20/>&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20%7C%20System%20Architect&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150" style="object-fit: cover;" />
 </div>
 
-<!-- Typing Animation using Fira Code font for "Coder" look -->
-
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBuilding%2BScalable%2BBackend%2BSystems%3Bdebugging_over_boilerplate()%3Bconst%2Bdream%2B%253D%2Bnew%2BEngineer()%3Bwhile(alive)%2B%257B%2Bcode()%253B%2B%257D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&background=00000000&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+APIs;System+Architecture+Enthusiast;Debugging+Over+Boilerplate" alt="Typing SVG" />
 </p>
 
-<!-- "Matrix" / Coding GIF to replace the broken one -->
-
 <p align="center">
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-705c862d-0504-46bb-9311-657754685244.gif" width="500" />
 </p>
 
-<!-- About Me Section -->
+---
 
 <h2 align="center">⚡ About Me</h2>
+
 <p align="center">
-Engineering student (ECE) specializing in <b>Backend Architecture</b> and <b>Distributed Systems</b>.
-
-
-
-
-Passionate about writing <b>clean, debuggable code</b> and mastering system fundamentals.
+  <b>Engineering student (ECE) | Backend Systems | API Development</b>
 </p>
 
 <p align="center">
-<a href="https://instagram.com/Devesh.mishra_21">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/devesh-mishra-7032a329a/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:devesh.mishra.1904@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+I specialize in building scalable <b>REST APIs</b> with robust authentication and authorization. My focus is on writing clean, debuggable backend code and mastering system fundamentals.
 </p>
 
-<!-- Tech Stack with "For-The-Badge" style for a robust look -->
+<div align="center">
+  <a href="https://instagram.com/Devesh.mishra_21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/devesh-mishra-7032a329a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:devesh.mishra.1904@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
-Languages
+### 💻 Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/typescript-%2523007ACC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+### ⚙️ Backend & APIs
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
-Backend & API
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/express.js-%2523404d59.svg%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3D%252361DAFB" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JWT-black%3Fstyle%3Dfor-the-badge%26logo%3DJSON%2520web%2520tokens" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Socket.io-black%3Fstyle%3Dfor-the-badge%26logo%3Dsocket.io%26logoColor%3Dwhite" />
-
-Database & Cloud
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-%25234ea94b.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/postgres-%2523316192.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-
-Tools & Frontend
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/tailwindcss-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/vite-%2523646CFF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bun-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dbun%26logoColor%3Dwhite" />
+### 🌐 Frontend & Tools
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 
 </div>
 
-<!-- Stats Section with "Radical" theme to fit dark mode -->
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDev-sh21%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D00000000" alt="GitHub Stats" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDev-sh21%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D00000000" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-sh21&theme=radical&hide_border=true&show_icons=true&bg_color=0d1117&title_color=00FF99&icon_color=00FF99" alt="Stats" />
+  
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com?user=Dev-sh21&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-sh21&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99" alt="Languages" />
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DDev-sh21%26theme%3Dradical%26hide_border%3Dtrue%26background%3D00000000" alt="Streak Stats" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="50" style="object-fit: cover; transform: rotate(180deg);" />
 </div>
-
-<!-- Featured Projects Section -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<b>🔐 Auth & Access Control API</b>
-
-
-
-
-
-
-JWT-based authentication system with protected routes and middleware-driven access control.
-</td>
-<td align="center" width="50%">
-<b>📦 CMS Backend System</b>
-
-
-
-
-
-
-User-specific content API with secure creation and retrieval using Express and MongoDB.
-</td>
-</tr>
-</table>
-
-<!-- Footer with matching dark theme -->
-
-<div align="center">
-<img src="
