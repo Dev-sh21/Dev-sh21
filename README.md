@@ -1,19 +1,20 @@
+<!-- Animated Coder Banner -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=36BCF7&center=true&width=600&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+APIs;Authentication+%7C+Authorization;Debugging+Over+Boilerplate"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=36BCF7&center=true&width=600&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+APIs;Authentication+%7C+Authorization;Debugging+Over+Boilerplate"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="420"/>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="420"/>
 </p>
 
 ---
 
 ## About Me
 
-Engineering student (ECE) working on backend systems and API development.  
-Experience building REST APIs with authentication, authorization, and middleware-based access control.  
+Engineering student (ECE) working on backend systems and API development.  
+Experience building REST APIs with authentication, authorization, and middleware-based access control.  
 Focused on writing debuggable, scalable backend code and strengthening system fundamentals.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -68,23 +69,27 @@ Focused on writing debuggable, scalable backend code and strengthening system fu
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-sh21&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-sh21&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-sh21&theme=tokyonight&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-sh21&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-sh21&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-sh21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100" style="object-fit: cover;" />
-</p>
+## Featured Projects
+
+### Authentication & Authorization API
+JWT-based authentication system with protected routes and middleware-driven access control.
+
+### Content Management Backend
+User-specific content API with secure creation and retrieval using Express and MongoDB.
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
