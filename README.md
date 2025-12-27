@@ -73,9 +73,7 @@
 
 <h2 align="center">📊 <span style="color:#00FF99">GITHUB</span>.<span style="color:#00C9FF">METRICS</span></h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-sh21&theme=radical&hide_border=true&show_icons=true&bg_color=0d1117&title_color=00FF99&icon_color=00C9FF" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-sh21&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=00C9FF" height="150" alt="Languages" />
+
   
   <br/>
   
