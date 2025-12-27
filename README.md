@@ -70,8 +70,6 @@ Focused on writing debuggable, scalable backend code and strengthening system fu
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-sh21&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-sh21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
