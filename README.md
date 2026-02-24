@@ -23,9 +23,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/devesh-mishra-7032a329a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
-  </a>
+  
   <a href="mailto:devesh.mishra.1904@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
   </a>
